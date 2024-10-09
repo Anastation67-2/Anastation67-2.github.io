@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Anastasiia Prokhorova, LSE Student, Launches Site"
 date: 2024-10-09
 ---
 
